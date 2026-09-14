@@ -1,0 +1,10 @@
+name = "leanpractice"
+version = "0.1.0"
+defaultTargets = ["leanpractice"]
+
+[[lean_lib]]
+name = "Leanpractice"
+
+[[lean_exe]]
+name = "leanpractice"
+root = "Main"
